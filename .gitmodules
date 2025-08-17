@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = arnabpal2022/Meeting-Frontend
+	url = https://github.com/arnabpal2022/Meeting-Frontend.git
